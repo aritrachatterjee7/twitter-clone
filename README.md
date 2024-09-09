@@ -29,7 +29,7 @@ CLOUDINARY_API_KEY=your_cloudinary_api_key
 CLOUDINARY_API_SECRET=your_cloudinary_api_secret
 ```
 
-## Build the apo
+## Build the app
 ```
 npm run build
 ```
